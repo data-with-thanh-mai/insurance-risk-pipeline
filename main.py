@@ -46,8 +46,11 @@ if __name__ == "__main__":
     parser.add_argument("--file", type=str, default="data/raw_data.csv", help="Đường dẫn file dữ liệu thô")
     args = parser.parse_args()
 
-    # Thiết lập Log hệ thống
-    SystemLogger("system_run.log")
+    if not os.path.exists("logs"):
+        os.makedirs("logs")
+    
+    # Chỉ định đường dẫn file log nằm trong thư mục logs
+    SystemLogger("logs/automl_run.log")
 
     if args.mode in ["etl", "all"]:
         run_etl(args.file)
