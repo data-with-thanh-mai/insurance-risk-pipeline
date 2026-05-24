@@ -1,6 +1,10 @@
 # Insurance Risk Prediction Pipeline
 
-👤 **Author:** Thái Ngọc Thanh Mai | GitHub: [data-with-thanh-mai](https://github.com/data-with-thanh-mai)
+👤**Authors:** * **Thái Ngọc Thanh Mai** (Lead Data Engineer - ETL Pipeline)
+* **Nguyễn Đỗ Khánh Ngọc** (Machine Learning Engineer - Modeling & Evaluation)
+* **Nguyễn Ngọc Minh** (Data Analyst - EDA & Reporting)
+
+**GitHub:** [data-with-thanh-mai](https://github.com/data-with-thanh-mai)
 
 ## 🎯 Project Overview & Objectives
 Dự án này xây dựng một hệ thống **End-to-End Data Pipeline** tự động hóa quy trình từ xử lý dữ liệu thô đến huấn luyện mô hình dự báo rủi ro bảo hiểm.
