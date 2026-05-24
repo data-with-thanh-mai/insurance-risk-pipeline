@@ -1,8 +1,9 @@
 # Insurance Risk Prediction Pipeline
 
-👤**Authors:** * **Thái Ngọc Thanh Mai** (Lead Data Engineer - ETL Pipeline)
-* **Nguyễn Đỗ Khánh Ngọc** (Machine Learning Engineer - Modeling & Evaluation)
-* **Nguyễn Ngọc Minh** (Data Analyst - EDA & Reporting)
+👤**Authors:** 
+* **Thái Ngọc Thanh Mai** (ETL Pipeline)
+* **Nguyễn Đỗ Khánh Ngọc** (Modeling & Evaluation)
+* **Nguyễn Ngọc Minh** (EDA & Reporting)
 
 **GitHub:** [data-with-thanh-mai](https://github.com/data-with-thanh-mai)
 
